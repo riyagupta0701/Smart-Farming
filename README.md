@@ -1,2 +1,2 @@
 # Smart-Farming
-A project for Software Engineering
+iOS App for Software Engineering project.
