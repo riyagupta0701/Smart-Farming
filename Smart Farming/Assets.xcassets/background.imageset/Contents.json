@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "531-5313647_design-shapes-colors-free-photo-geometric-colors-hd.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "531-5313647_design-shapes-colors-free-photo-geometric-colors-hd@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "531-5313647_design-shapes-colors-free-photo-geometric-colors-hd@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
